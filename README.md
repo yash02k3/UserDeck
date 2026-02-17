@@ -32,7 +32,7 @@ This project simulates a lightweight user dashboard with navigation tabs and int
 
 ### 💻 Desktop View & 📱 Mobile View
 
-![Image](userdeck/screenshots/Desktop View &  Mobile View.png)
+![ProjectImage](userdeck/screenshots/Desktop View &  Mobile View.png)
 
 ---
 
@@ -112,5 +112,4 @@ Frontend Developer | React Enthusiast
 ---
 
 ⭐ If you like this project, feel free to star the repository!
-
 
