@@ -1,0 +1,42 @@
+.profile-container {
+  padding: 40px 20px;
+  color: white;
+  text-align: center;
+}
+
+.profile-title {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.profile-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.profile-form input {
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.profile-form button {
+  padding: 12px;
+  border-radius: 10px;
+  border: none;
+  background: #38bdf8;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.profile-form button:hover {
+  background: #0ea5e9;
+}
+
