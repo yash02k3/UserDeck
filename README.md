@@ -32,7 +32,7 @@ This project simulates a lightweight user dashboard with navigation tabs and int
 
 ### 💻 Desktop View & 📱 Mobile View
 
-![ProjectImage](/Users/yashkumar/Desktop/UserDeck/userdeck/screenshots/Desktop View &  Mobile View.png)
+![Desktop View &  Mobile View](userdeck/screenshots/Desktop View &  Mobile View.png)
 
 ---
 
